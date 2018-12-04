@@ -6,3 +6,6 @@ Prophet - https://facebook.github.io/prophet/docs/quick_start.html#python-api
 App - Flask or Bokeh?
 
 Deployment - as hassio addon?
+
+## Useful links
+* https://github.com/galinaalperovich/CassandraTime
